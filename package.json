@@ -1,11 +1,11 @@
 {
-  "name": "vue-vuex-jwt-authentication-example",
+  "name": "vallesdepinto",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornflourblue/vue-vuex-jwt-authentication-example.git"
+    "url": "https://github.com/CryptoInti/vallesdepinto"
   },
-  "license": "MIT",
+  "license": ":3",
   "scripts": {
     "start": "webpack-dev-server --open"
   },

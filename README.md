@@ -1,5 +1,3 @@
-# vue-vuex-jwt-authentication-example
+# Valles de Pinto - Registro de Información
 
-Vue + Vuex - JWT Authentication Tutorial & Example
-
-To see a demo and further details go to http://jasonwatmore.com/post/2018/07/06/vue-vuex-jwt-authentication-tutorial-example
+El Registro de Información de Valles de Pinto busca prestar soporte tecnológico necesario para el apoyo a las gestiones de mejora de la zona.
