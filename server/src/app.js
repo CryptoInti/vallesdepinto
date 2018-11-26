@@ -32,8 +32,8 @@ app.get('/posts', (req, res) => {
     })
   }).sort({_id:-1})
 })
-
-mongoose.connect('mongodb://localhost:27017/posts');
+mongoose.connect('mongodb://user_valle:a12345@ds113566.mlab.com:13566/heroku_x5gmrh1c');
+//mongoose.connect('mongodb://localhost:27017/posts');
 var db = mongoose.connection;
 db.on("error", console.error.bind(console, "connection error"));
 db.once("open", function(callback){
